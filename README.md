@@ -1,8 +1,11 @@
 # React-Login-SignUp-Page
 
-## To Run in your local System
+## To Run project in your local System
+
+#### 1.Clone the project
+
+#### 2.Run the following commands in the terminal!!
 ```
-Clone the project.
 npm install
 npm start
 ```
